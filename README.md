@@ -28,10 +28,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/>
   </a>
 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="42" height="42"/>
-  </a>
-
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42"/>
   </a>
@@ -108,10 +104,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/>
   </a>
 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42"/>
-  </a>
-
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/>
   </a>
@@ -138,10 +130,6 @@
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42"/>
   </a>
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
