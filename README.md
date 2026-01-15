@@ -2,7 +2,7 @@
 <h3 align="center">Mobile application developer focused on building secure, minimalist mobile apps using React Native, Firebase, and Android (Kotlin). Experienced in authentication, real-time data sync, cloud-backed architectures, and performance-conscious UI design.
 </h3>
 
-📱 Currently building: FamilyGuard — a mobile security & device monitoring app [FamilyGuard](https://github.com/zoulfiq4r/FamilyGuardMobile)
+- 📱 Currently building: FamilyGuard — a mobile security & device monitoring app [FamilyGuard](https://github.com/zoulfiq4r/FamilyGuardMobile)
 
 - 🔐 Focus areas: Mobile security, authentication, real-time cloud sync
 
