@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zoulficar Kanso</h1>
-<h3 align="center">Full-stack developer with hands-on experience building web apps, mobile apps, Windows applications, and Python tools.</h3>
+<h3 align="center">Mobile application developer focused on building secure, minimalist mobile apps using React Native, Firebase, and Android (Kotlin). Experienced in authentication, real-time data sync, cloud-backed architectures, and performance-conscious UI design.
+</h3>
 
-- 🔭 I’m currently working on [FamilyGuard](https://github.com/zoulfiq4r/FamilyGuardMobile)
+📱 Currently building: FamilyGuard — a mobile security & device monitoring app [FamilyGuard](https://github.com/zoulfiq4r/FamilyGuardMobile)
 
-- 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/zoulfiq4r](https://github.com/zoulfiq4r)
+- 🔐 Focus areas: Mobile security, authentication, real-time cloud sync
 
 - 📫 How to reach me **zoulfiqar.kanso@gmail.com**
 
@@ -18,10 +17,6 @@
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42"/>
-  </a>
-
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42"/>
   </a>
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
@@ -50,10 +45,6 @@
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/>
-  </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42"/>
   </a>
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
@@ -110,10 +101,6 @@
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42"/>
-  </a>
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42"/>
   </a>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
