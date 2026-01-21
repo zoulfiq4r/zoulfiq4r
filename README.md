@@ -19,14 +19,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42"/>
   </a>
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/>
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42"/>
-  </a>
-
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:12px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/>
   </a>
