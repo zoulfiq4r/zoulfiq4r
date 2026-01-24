@@ -8,6 +8,13 @@ Full Stack Developer Intern focused on building clean, secure web and mobile app
 - 🧠 Comfortable with: React, APIs, debugging existing codebases, GitHub collaboration
 - 📫 Reach me at: **zoulfiqar.kanso@gmail.com**
 
+<h3 align="left">Featured Projects</h3>
+
+- 🔐 <b>CyberShield</b> — Full-stack cybersecurity learning platform (React, Node.js, REST APIs)  
+  👉 https://github.com/zoulfiq4r/cybershield
+
+- 📱 <b>FamilyGuard</b> — Full-stack monitoring system with mobile apps and web dashboard  
+  👉 https://github.com/zoulfiq4r/FamilyGuardMobile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
