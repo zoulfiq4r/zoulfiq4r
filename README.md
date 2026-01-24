@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zoulficar Kanso</h1>
-<h3 align="center">Mobile application developer focused on building secure, minimalist mobile apps using React Native, Firebase, and Android (Kotlin). Experienced in authentication, real-time data sync, cloud-backed architectures, and performance-conscious UI design.
+<h3 align="center">
+Full Stack Developer Intern focused on building clean, secure web and mobile applications using React, React Native, Firebase, and Node.js.
 </h3>
 
-- 📱 Currently building: FamilyGuard — a mobile security & device monitoring app [FamilyGuard](https://github.com/zoulfiq4r/FamilyGuardMobile)
+- 🚀 Currently building: **FamilyGuard** — a full-stack monitoring platform (mobile + web)
+- 🔐 Interests: Web security, authentication, real-time systems, fintech & crypto platforms
+- 🧠 Comfortable with: React, APIs, debugging existing codebases, GitHub collaboration
+- 📫 Reach me at: **zoulfiqar.kanso@gmail.com**
 
-- 🔐 Focus areas: Mobile security, authentication, real-time cloud sync
-
-- 📫 How to reach me **zoulfiqar.kanso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
