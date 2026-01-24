@@ -30,3 +30,9 @@ Full Stack Developer Intern focused on building clean, secure web and mobile app
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
 </p>
+
+<h3 align="left">Currently Learning</h3>
+- Cryptocurrency platforms & transaction flows  
+- Web3 application architecture  
+- Secure backend design for fintech systems
+
