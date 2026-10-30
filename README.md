@@ -1,4 +1,4 @@
-   .-------------------.   Zoulficar-Kanso --------------------------------
+<div align="center">   .-------------------.   Zoulficar-Kanso --------------------------------
    |  ---------------  |   . Role: .............. Software Engineering Student
    | |               | |   . Education: ......... BS Computer Science (LIU)
    | | >_ hello      | |   .                      MSc Software Eng. (UMLP)
@@ -15,3 +15,4 @@
                            . Email: ............. zoulfiqar.kanso@gmail.com
                            . GitHub: ............ github.com/zoulfiq4r
                            . LinkedIn: .......... linkedin.com/in/Zoulficar
+</div>
